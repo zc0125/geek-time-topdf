@@ -1,5 +1,7 @@
 # geek-time-topdf
 
+[原仓库地址](https://github.com/guowenfh/geek-time-topdf)
+
 print your geek time course to pdf. If you have already bought it
 
 need phone, password, course name.
